@@ -1,0 +1,10 @@
+.margencirijillo{
+    margin-top: 40px;
+    margin-bottom: 20px;
+}
+.active{
+    color:rgb(235, 165, 36) !important;
+}
+.card{
+    min-width: 300px !important;
+}
